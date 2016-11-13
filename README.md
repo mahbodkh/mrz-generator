@@ -6,7 +6,7 @@ as defined by ICAO: http://www.icao.int/
 
 #### Example:
 
-```java
+```swift
 P<IRNKHOSRAVANI<<MAHBOD<<<<<<<<<<<<<<<<<<<<<
 S000200231IRN9002188M2102182<<<<<<<<<<<<<<06
 ```
