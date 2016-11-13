@@ -1,5 +1,5 @@
 # mrz-generator for java ...
-you can easily generate mrz (machine readable zone),
+you can easily generate MRZ (machine readable zone),
 as defined by ICAO: http://www.icao.int/ 
 
 
