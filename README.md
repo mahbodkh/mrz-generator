@@ -2,7 +2,7 @@
 you can easily generate MRZ (machine readable zone),
 as defined by ICAO: http://www.icao.int/ 
 
-
+###### + Original MRZ Font 
 
 #### Example:
 
